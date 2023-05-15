@@ -10,7 +10,7 @@ yarn docs:build
 cd docs/.vuepress/dist
 
 # if you are deploying to a custom domain
-echo 'docsnew.cloudlinux.com' > CNAME
+#echo 'docsnew.cloudlinux.com' > CNAME
 
 git config --global user.email "bshyshka@gmail.com"
 git config --global user.name "circle-ci"
@@ -20,6 +20,6 @@ git add -A
 git commit -m 'deploy [skip ci]'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:bogdanssh.github.io/cloudlinux-documentation.git master:gh-pages
+git push -f git@github.com:bogdanssh/cloudlinux-documentation.git master:gh-pages
 
 cd -
