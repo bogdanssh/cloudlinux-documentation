@@ -1,0 +1,1 @@
+const l=JSON.parse('{"key":"v-0dd4f8c5","path":"/sub-system-ubuntu/installation/","title":"Installation","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Ubuntu2Cloudlinux explained","slug":"ubuntu2cloudlinux-explained","link":"#ubuntu2cloudlinux-explained","children":[]}]}');export{l as data};

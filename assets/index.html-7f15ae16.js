@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2bb1ada0","path":"/user-docs-solo-cloudlinux/php-selector/","title":"PHP Selector","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Overview","slug":"overview","link":"#overview","children":[]}]}');export{e as data};
