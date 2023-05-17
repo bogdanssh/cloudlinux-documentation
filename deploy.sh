@@ -13,7 +13,7 @@ cd docs/.vuepress/dist
 echo 'cl.pineconeapps.com' > CNAME
 
 git config --global user.email "bshyshka@gmail.com"
-git config --global user.name "circle-ci"
+git config --global user.name "bogdanssh"
 
 git init
 git add -A
